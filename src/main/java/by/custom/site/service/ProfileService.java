@@ -13,8 +13,4 @@ public class ProfileService {
         this.profileRepository = profileRepository;
         this.profiles = profileRepository.getProfiles();
     }
-
-    public void dfsdf(){
-
-    }
 }
