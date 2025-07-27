@@ -12,5 +12,8 @@ public class User {
     private String name;
     private int age;
     private String gender;
+    private String sdfs;
+    private int x;
+    private int y;
 
 }
